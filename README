@@ -9,4 +9,5 @@
     参数包含服务器的地址和类型 struct sockaddr{}  
 5.服务器接受客户端请求存入队列  
 6.服务器按顺序读取客户端地址，并生成新的套接字与特定客户端通信: int accept()  
-![Imagetext](https://github.com/JoedgeChoh/SocketDemo/tree/master/img/image.jpg)
+![image](https://github.com/JoedgeChoh/SocketDemo/tree/master/img/image.jpg)
+ 
