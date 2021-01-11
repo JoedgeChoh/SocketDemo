@@ -11,3 +11,8 @@
 6.服务器按顺序读取客户端地址，并生成新的套接字与特定客户端通信: int accept()  
 ![image](https://github.com/JoedgeChoh/SocketDemo/tree/master/img/image.jpg)
  
+### 编译
+$ mkdir build && cd build
+$ cmake .. 
+$ make
+
